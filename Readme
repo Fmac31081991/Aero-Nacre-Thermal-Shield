@@ -1,0 +1,36 @@
+* Aero Nacre Thermal Shield - F.Mac31081991
+
+This repository presents a theoretical geometric pattern for atmospheric reentry thermal shields, named Aero Nacre Thermal Shield.
+
+The project proposes maintaining the traditional hexagonal geometry while introducing a universal overlapping coupling system inspired by nacre-like structures. The objective is to create a modular arrangement that combines manufacturing simplicity, geometric adaptability, and higher tolerance to structural vibrations.
+
+Each hexagonal tile is fixed using a single mechanical anchoring point, referred to as the anchor. The theoretical premise is that a single-point fixation allows better accommodation of vibrations and micro-deformations, reducing the concentration of mechanical stresses commonly found in rigid multi-point attachment systems.
+
+The external face of each tile has a concave geometry. In theory, this shape may favor partial flow reflection and surface turbulence shear, generating distributed micro-vortices. The conceptual goal is to avoid the concentration of turbulence and critical vibrations over large shield areas, reducing the risk of local aero-structural instabilities.
+
+The coupling system is designed to allow stacking and overlapping between tiles, forming an interlocked structure with semi-flexible behavior, similar to a mesh of independent yet mechanically and thermally cooperative plates.
+
+To enable application across different surface profiles, the project assumes that the spacecraft structure is designed using geometries derived from 120-degree angles. This theoretical choice aims to facilitate the creation of universal tiles capable of adapting to multiple curvature radii without requiring large families of different shapes.
+
+This approach aligns with the fact that reentry vehicles are usually designed with smooth and continuous surfaces. Therefore, the geometry based on 120-degree angles and overlapping hexagons seeks compatibility with aerodynamic concepts of theoretical and experimental spacecraft.
+
+It is important to emphasize that this project is in a conceptual and theoretical stage. The hypotheses related to aerodynamic behavior, micro-vortex generation, vibration dissipation, and mechanical load distribution have not yet been experimentally tested or validated through computational simulations.
+
+* Project goals
+Explore new thermal shield geometries based on modularity and universal coupling.
+Investigate theoretical concepts of surface turbulence distribution.
+Propose a structural model more tolerant to vibrations and micro-impacts.
+Create a conceptual foundation for future simulation and prototyping studies.
+
+* Project status
+Conceptual phase. This is not a system ready for industrial or aerospace application.
+
+* License and openness
+This project is open and free. All concepts, texts, and visual materials are shared for study, discussion, and further development by the community, without restriction on academic or experimental use.
+
+* Disclaimer
+All content in this repository must be interpreted as theoretical and exploratory work. There are no guarantees of thermal, structural, or aerodynamic performance.
+
+* Author
+Concept and theoretical modeling by Fernando Macena.
+Codename: F.Mac31081991
